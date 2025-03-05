@@ -1,13 +1,44 @@
-Git Course
+TDE 01 - DESENVOLVIMENTO WEB BACK-END
 
-Este é um repositorio teste para ensinar como o GIt funciona.i
+PROBLEMA A- ALTURA MINIMA
 
-Saiba mais no link:[willianjuste.com.br](http://willianjusten.com.br)
+dados retirados da questao:
+quantidade de brinquedos: n
 
-Gostou do curso? Quer mais? Ajude com uma doação, até um café é valido!
+<?ph=0;
+$n_brinquedos;
+$altura_carlitos;
+$altura_brinquedos; 
+$pode_ir;
+
+for($i=0; $i<n; i++){
+    if(altura_carlitos >= altura_brinquedos[$i]{
+        $pode_ir++
+    }
+}
+
+echo $pode_ir
 
 
-qualquer coisa novamente
 
 
-outra coisa mais uma vez
+
+
+
+
+
+PROBLEMA A- TELEFERICO
+
+$c = 100;
+$a = 87;
+$resultado_final = 0;
+
+$resultado_final = ceil($a / ($c - 1));
+
+echo $resultado_final;
+
+
+
+
+
+
